@@ -1,2 +1,6 @@
 # Digital_Clock
-This is My Digital Clock Project
+here is my project
+Which I have made w 
+HTML
+CSS
+JAVASCRIPT
